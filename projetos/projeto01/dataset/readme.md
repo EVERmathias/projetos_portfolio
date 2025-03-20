@@ -1,0 +1,12 @@
+# NÃO IREI DISPONIBILIZAR OS ARQUILOS POR AQUI PELO MOTIVO DE ULTRAPASSAREM OS LIMITES DE MB(+25MB) PERMITIDOS PELO GITHUB.
+
+
+
+### NO ENTANTO, ABAIXO ESTÁ O SITES DISPONIBILIZANDO OS ARQUIVOS DO PROJETO.
+⬇️⬇️
+<br>
+
+[SITE OFICIAL](https://divvy-tripdata.s3.amazonaws.com/index.html) 
+
+
+OBS: Os arquivos correspondem a cada mês do ano de 2024.
