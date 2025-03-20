@@ -76,7 +76,7 @@ Use os dados históricos para analisar e identificar tendências. (Observação:
   - Nenhum único dado foi alterado. As informações como nomes e endereços não foram divulgadas, assim como o percurso do usuário.
  
 - 5. Como você verificou a integridade dos dados?
-  - Analisei todos os arquivos. Os que tiveram dados nulos ou duplicados foram removidos. ![]()
+  - Analisei todos os arquivos. Os que tiveram dados nulos ou duplicados foram removidos. ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/check_values.png) ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/show_values.png)
 
 
 
