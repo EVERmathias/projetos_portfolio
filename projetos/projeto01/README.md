@@ -65,6 +65,18 @@ Use os dados históricos para analisar e identificar tendências. (Observação:
 
 - 1. Onde os dados estão localizados?
    - [DIVVY TRIP DATA](https://divvy-tripdata.s3.amazonaws.com/index.html)
+ 
+- 2. Como eles foram organizados?
+  - Foram coletados 12 arquivos csv. Cada arquivo csv corresponde ao mês do ano. ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/import_csv.png)
+
+- 3.  Há algum problema com viés ou credibilidade nesses dados?
+  - A fonte de onde os dados foram coletados é confiável.  Todas as colunas correspondem umas às outras.
+ 
+- 4. Como você está lidando com o licenciamento, privacidade, seguro e acessibilidade desses dados?
+  - Nenhum único dado foi alterado. As informações como nomes e endereços não foram divulgadas, assim como o percurso do usuário.
+ 
+- 5. Como você verificou a integridade dos dados?
+  - Analisei todos os arquivos. Os que tiveram dados nulos ou duplicados foram removidos. ![]()
 
 
 
