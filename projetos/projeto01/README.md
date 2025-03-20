@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/projetos/projeto01/imagens/cyclistic.png"  width="100%"/>
-</div>
-
-
-
+![](projetos/projeto01/imagens/cyclistic.png)
 
 
 
