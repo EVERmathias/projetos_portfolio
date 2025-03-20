@@ -1,4 +1,4 @@
-![](projetos/projeto01/imagens/cyclistic.png)
+![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/cyclistic.png)
 
 
 
