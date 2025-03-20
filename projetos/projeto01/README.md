@@ -1,14 +1,8 @@
 <div align="center">
-<img src="https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/projetos/projeto01/imagens/cyclistic.png" 
-    width="100%"/>
+<img src="https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/projetos/projeto01/imagens/cyclistic.png"  width="100%"/>
 </div>
 
 
-
-
-
-
-# Como um compartilhamento de bicicletas alcança o sucesso rápido
 
 
 
