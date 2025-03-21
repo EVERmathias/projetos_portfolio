@@ -150,6 +150,6 @@ Use os dados históricos para analisar e identificar tendências. (Observação:
 <br>    
 
    - Após a conversão das tabelas 'started_at' e 'ended_at' para datetime64[ns], criei uma tabela chamada ‘ride_length’. Essa tabela mede a minutagem dos passeios de bicicleta subtraindo a tabela 'ended_at' pela tabela 'started_at'
-    - ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/ride_length_code.png)
-    - ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/ride_length_output.png)
+     - ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/ride_length_code.png)
+     - ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/ride_length_output.png)
 
