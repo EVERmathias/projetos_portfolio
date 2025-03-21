@@ -118,4 +118,15 @@ Use os dados históricos para analisar e identificar tendências. (Observação:
 - 3. Quais são os passos que você seguiu para garantir que seus dados estão limpos?
   - Os dados nulos, faltantes ou duplicados foram removidos.
  ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/prop_dataframe.png) 
-![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/output_result.png) 
+![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/output_result.png)
+
+<br>
+
+ - Removendo valores nulos
+   - ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/drop_na.png)
+   - ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/post_drop_na.png)
+ 
+ <br>
+ 
+ - DataFrame após a remoção dos valores nulos
+   - ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/dataframe_na.png)
