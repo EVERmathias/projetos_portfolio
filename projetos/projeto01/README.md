@@ -58,6 +58,8 @@ Você produzirá um relatório com os seguintes resultados:
 - 6. Top três recomendações baseadas nas suas análises
 
 <br>
+<br>
+
 
 ### Preparar
 
@@ -130,3 +132,24 @@ Use os dados históricos para analisar e identificar tendências. (Observação:
  
  - DataFrame após a remoção dos valores nulos
    - ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/dataframe_na.png)
+
+<br>
+  
+ - 4.  Como você pode verificar que seus dados estão limpos e prontos para serem analisados?
+   - Fazendo buscas de dados duplicados, faltantes inconsistentes.
+
+<br>
+<br>
+
+ ### Análise 
+ - 1. Como você deve organizar seus dados para realizar uma análise sobre eles?
+   - Com a conclusão dos dados inconsistentes, converti as colunas 'started_at' e 'ended_at' para datetime64[ns]
+     - ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/convert_code.png)
+     - ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/datetime.png)
+
+<br>    
+
+   - Após a conversão das tabelas 'started_at' e 'ended_at' para datetime64[ns], criei uma tabela chamada ‘ride_length’. Essa tabela mede a minutagem dos passeios de bicicleta subtraindo a tabela 'ended_at' pela tabela 'started_at'
+    - ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/ride_length_code.png)
+    - ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/ride_length_output.png)
+
