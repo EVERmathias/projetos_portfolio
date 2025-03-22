@@ -254,3 +254,40 @@ Name: ride_length, dtype: int64
 
 ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/quantidade_total_semana.png)
 
+```python
+
+# Separando o total de cada tipo de membro por dia da semana
+ano_grupos = ano[['rideable_type','member_casual', 'day_of_week']].value_counts()
+anos_gruposdf = pd.DataFrame(ano_grupos)
+anos_gruposdf.groupby('member_casual')
+anos_gruposdf_sorted = anos_gruposdf.sort_values(by=['member_casual'], ascending=False).reset_index()
+anos_gruposdf_sorted_1 = anos_gruposdf_sorted.sort_values(by=['member_casual'])
+
+
+
+# Criando uma coluna 'mes' correspondente com cada viagem por usuário
+meses_ano = {
+    1: 'Janeiro', 2: 'Fevereiro', 3: 'Março', 4: 'Abril',
+    5: 'Maio', 6: 'Junho', 7: 'Julho', 8: 'Agosto',
+    9: 'Setembro', 10: 'Outubro', 11: 'Novembro', 12: 'Dezembro'
+}
+
+ano['mes'] = ano['started_at'].dt.month.map(meses_ano)
+
+
+
+#1.  Indexando os meses em ordem
+#2. Criando o gráfico da quantidade de passeios ao longo do ano.
+
+
+ano_mes_df = ano['mes'].value_counts().reset_index()
+novo_indice = np.array([7,6,8,5,9,4,3,10,2,1,11,0])
+ano_mes_df.index = novo_indice
+ano_mes_df_1 = ano_mes_df.sort_index()
+ano_mes_df_1.plot(kind='bar', x='mes', y='count', legend=False)
+plt.xlabel('Meses')
+plt.title('Quantidade de passeios ao longo do ano')
+plt.show()
+
+```
+![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/mes_tendencia.png)
