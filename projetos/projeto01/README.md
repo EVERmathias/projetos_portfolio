@@ -172,19 +172,25 @@ Use os dados históricos para analisar e identificar tendências. (Observação:
     - ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/more_than_1_sec.png)
    
 <br>
+<br>
 
   - 2. Seus dados foram formatados corretamente?
     - Todos os dados foram corretamente formatados e tratados para a análise.
 
 <br>
+<br>
 
   - 3. Quais surpresas você descobriu nos dados?
 ```
-Media do tempo de bicicleta por membro:	0 days 00:16:48.865997765
+Media do tempo de bicicleta por membro:
+0 days 00:16:48.865997765
 
-Máxima do do tempo de passeio:1 days 01:09:22
+Máxima do do tempo de passeio:
+1 days 01:09:22
 
-Moda dos dias da semana:0    Saturday
+Moda dos dias da semana:
+0    Saturday
+
 Name: day_of_week, dtype: object
 ```
 
@@ -214,7 +220,6 @@ Name: count, dtype: int64
 
 <br>
 
-
 ```
 A média de viagens feitas por dia semana
 day_of_week
@@ -228,3 +233,23 @@ Wednesday   0 days 00:15:00.878320665
 Name: ride_length, dtype: timedelta64[ns]
 ```
 ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/media_passeio_semana.png)
+
+<br>
+<br>
+
+ - 4. Que tendências ou relações você encontrou nos dados?
+  
+```
+day_of_week
+Friday       593576
+Monday       575485
+Saturday     643778
+Sunday       556125
+Thursday     591823
+Tuesday      579003
+Wednesday    628271
+Name: ride_length, dtype: int64
+```
+
+![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/quantidade_total_semana.png)
+
