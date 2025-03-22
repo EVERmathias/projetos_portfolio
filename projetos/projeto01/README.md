@@ -250,6 +250,7 @@ Tuesday      579003
 Wednesday    628271
 Name: ride_length, dtype: int64
 ```
+<br>
 
 ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/quantidade_total_semana.png)
 
