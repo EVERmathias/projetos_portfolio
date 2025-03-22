@@ -170,4 +170,61 @@ Use os dados históricos para analisar e identificar tendências. (Observação:
 
     - ### Depois
     - ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/more_than_1_sec.png)
+   
+<br>
 
+  - 2. Seus dados foram formatados corretamente?
+    - Todos os dados foram corretamente formatados e tratados para a análise.
+
+<br>
+
+  - 3. Quais surpresas você descobriu nos dados?
+```
+Media do tempo de bicicleta por membro:	0 days 00:16:48.865997765
+
+Máxima do do tempo de passeio:1 days 01:09:22
+
+Moda dos dias da semana:0    Saturday
+Name: day_of_week, dtype: object
+```
+
+<br>
+
+```
+Média por TIPO de membro:member_casual
+casual   0 days 00:24:17.663328902
+member   0 days 00:12:34.939364041
+Name: ride_length, dtype: timedelta64[ns]
+```
+
+<br>
+
+```
+Totais usuários por TIPO de membro:member_casual
+member    2661948
+casual    1506113
+Name: count, dtype: int64
+```
+
+<br>
+
+![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/pizza_total_membro.png)
+![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/pct_total_pizza.png)
+
+
+<br>
+
+
+```
+A média de viagens feitas por dia semana
+day_of_week
+Friday      0 days 00:16:23.742431528
+Monday      0 days 00:15:33.509199867
+Saturday    0 days 00:20:42.221681871
+Sunday      0 days 00:20:39.841482864
+Thursday    0 days 00:14:48.170496050
+Tuesday     0 days 00:14:28.754211349
+Wednesday   0 days 00:15:00.878320665
+Name: ride_length, dtype: timedelta64[ns]
+```
+![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/media_passeio_semana.png)
