@@ -344,5 +344,51 @@ plt.ylabel('Valores (em milhares)')
 
 - __Membros da Cyclistic mantém um pico de passeio ao longo da semana; decai um pouco no final de semana.__
 
+<br>
 
+- 5. Como esses insights o ajudarão nas suas perguntas de negócio?
+   - A partir das análises acima, será mais fácil coordenar um projeto para retenção de membros com algumas promoções, adquirir novos membros investindo em estados diferentes e um determinado mês do ano e também promoções aos finais de semana.
+
+<br>
+<br>
+
+## Compartilhe
+- 1. Como você conseguiu responder a pergunta de como membros anuais e ciclistas casuais utilizam as bicicletas da Cyclistic de forma diferente?
+  - Os membros da Cyclistic geralmente usam as bicicletas para ir ao trabalho, já que sua frequência se mantém durante a semana.
+
+  - Já os ciclistas casuais usam para passeios; sua frequência é maior no sábado.
+
+<br>
+
+- 2. Qual história seus dados contam?
+  - Membros da Cyclistic tendem a assinar o plano para ir ao trabalho, diferente dos ciclistas casuais, que fazem passeios para lazer. Ambos têm preferências por bicicletas comuns ou bicicletas elétricas. Os dois tipos de membros têm um aumento na quantidade de passeios entre os meses de Julho até Outubro.
+
+<br>
+
+- 3. Quem é a sua audiência? Qual é a melhor maneira de se comunicar com eles?
+  - Minha audiência é o Gestor de Marketing e as partes interessadas, a melhor maneira é estruturar de forma cronológica as descobertas e facilitar o entendimento via gráficos.
+ 
+<br>
+
+- 4. A visualização de dados pode ajudá-lo a compartilhar suas descobertas?
+  - A visualização de dados simplifica para um fácil entendimento e interpretação, para poder tomar decisões baseada nas descobertas dos estudos feitos através dos dados.
+
+<br>
+<br>
+
+
+## Agir
+
+ - 1. Qual é sua conclusão final baseada na sua análise?
+   - A conclusão é que membros Cyclistic usam bicicletas para ir ao trabalho e membros casuais geralmente usam para passeios. Membros da Cyclistic têm um elevado índice de passeios de Maio até Outubro, diferente dos membros Casuais que só tem um leve aumento de Julho até Outubro.
+
+<br>
+ 
+ - 2. Como sua equipe poderia aplicar seus insights sobre negócios?
+   - Poderia focar em apenas bicicletas comuns e elétricas, abrir franquias com promoções para novos em outros estados nos meses de Julho, Agosto e Setembro.
+  
+<br>
+
+ - 3. Quais são os próximos passos que você daria para as partes interessadas se baseando em suas descobertas?
+   - Abrir franquias em capitais de outros estados em meses onde há mais passeios. Promover eventos com a marca e divulgá-los em redes sociais .
 
