@@ -153,3 +153,21 @@ Use os dados históricos para analisar e identificar tendências. (Observação:
      - ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/ride_length_code.png)
      - ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/ride_length_output.png)
 
+<br>
+
+  - Criei uma tabela chamada 'day_of_week', que basicamente é uma tabela que diz em qual dia da semana ocorreu o passeio.
+    - ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/day_of_week_code.png)
+    - ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/day_of_week_output.png)
+   
+<br>
+
+  - Com todas as tabelas que necessitamos para a análise já criadas, resolvi ordernar os passeios por ordem crescente e descobri valores com dias negativos (-1); após identificar esses dados inconsistentes, resolvi removê-los e também remmovi viagens com uma minutagem menor que 1 minuto.
+    - ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/checking_code.png)
+
+    - ### Antes
+    - ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/less_1_day_output.png)
+
+
+    - ### Depois
+    - ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/more_than_1_sec.png)
+
