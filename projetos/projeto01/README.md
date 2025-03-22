@@ -219,6 +219,9 @@ Name: count, dtype: int64
 
 
 <br>
+<br>
+  
+   - 4. Que tendências ou relações você encontrou nos dados?
 
 ```
 A média de viagens feitas por dia semana
@@ -235,9 +238,6 @@ Name: ride_length, dtype: timedelta64[ns]
 ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/media_passeio_semana.png)
 
 <br>
-<br>
-
- - 4. Que tendências ou relações você encontrou nos dados?
   
 ```
 day_of_week
@@ -291,3 +291,20 @@ plt.show()
 
 ```
 ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/mes_tendencia.png)
+
+
+
+```python
+# Quantidade total por tipo de bicicleta
+
+agrupado_total = ano.groupby('rideable_type')['ride_id'].count().reset_index()
+agrupado_totaldf = pd.DataFrame(agrupado_total)
+
+plt.gca().yaxis.set_major_formatter(plt.FuncFormatter(lambda x, _: f'{x/10000:.0f}Mil'))  # Converter para milhares
+
+
+plt.bar(agrupado_totaldf['rideable_type'], agrupado_totaldf['ride_id'])
+plt.title('Quantidade total por tipo de bicicleta')
+plt.ylabel('Valores (em milhares)')
+```
+![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/quantidade_tipo_veiculo.png)
