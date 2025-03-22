@@ -327,3 +327,22 @@ plt.ylabel('Valores (em milhares)')
 ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/Membro%20Cyclistic%20x%20Ciclista%20Casual%20.png)
 
 
+## Insights
+- __A média de viagem por tipo de membro corresponde a 24:17 segundos para ciclistas casuais e 12:34 segundos para ciclistas membros da Cyclist;__
+
+- __Com um total de 4168061 registros; 2661948 usuários correspondem a membros Cyclistic e 1506113 usuários correspondem a ciclistas casuais;__
+
+- __Membros Cyclistic correspondem a 63.9% do total se usuário, enquanto ciclistas casuais 36.1%;__
+
+- __O pico de passeios de bicicleta começa no mês de Julho (meio do Verão em Chicago) e se mantém até o mês de Setembro (meio do Outono em Chicago). Os meses com menos frequência de passeios de bicicleta são Dezembro e Janeiro (Inverno em Chicago);__
+
+- __Sábado é o dia com maior frequência de passeios.__
+
+- __Membros da Cyclistic e ciclistas casuais têm preferência por bicicleta simples, que corresponde a pouco mais de 250 mil registros. Logo em seguida, há uma preferência por bicicletas elétricas, com um pouco menos de 150 mil registros.__
+
+- __Ciclistas casuais têm o seu pico de passeio aos sábados; suas preferência são bicicleta comum e bicicleta elétrica.__
+
+- __Membros da Cyclistic mantém um pico de passeio ao longo da semana; decai um pouco no final de semana.__
+
+
+
