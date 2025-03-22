@@ -185,7 +185,7 @@ Use os dados históricos para analisar e identificar tendências. (Observação:
 Media do tempo de bicicleta por membro:
 0 days 00:16:48.865997765
 
-Máxima do do tempo de passeio:
+Máxima do tempo de passeio:
 1 days 01:09:22
 
 Moda dos dias da semana:
