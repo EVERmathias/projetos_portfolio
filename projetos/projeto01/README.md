@@ -308,3 +308,22 @@ plt.title('Quantidade total por tipo de bicicleta')
 plt.ylabel('Valores (em milhares)')
 ```
 ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/quantidade_tipo_veiculo.png)
+
+<br>
+<br>
+<br>
+<br>
+
+
+# Os gráficos abaixos foram feitos no EXCEL
+![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/Bicicleta%2C%20Bicicleta%20El%C3%A9trica%20and%20Scooter%20-%20Membros%20Casuais.png)
+
+<br>
+
+![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/Bicicleta%2C%20Bicicleta%20El%C3%A9trica%20e%20Scooter%20-%20Membros%20Cyclistic.png)
+
+<br>
+
+![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/Membro%20Cyclistic%20x%20Ciclista%20Casual%20.png)
+
+
