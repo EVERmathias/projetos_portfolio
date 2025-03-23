@@ -315,7 +315,7 @@ plt.ylabel('Valores (em milhares)')
 <br>
 
 
-# Os gráficos abaixos foram feitos no EXCEL
+# Os gráficos abaixos foram feitos no GOOGLE SHEETS
 ![](https://github.com/EVERmathias/projetos_portifolio/blob/main/projetos/projeto01/imagens/Bicicleta%2C%20Bicicleta%20El%C3%A9trica%20and%20Scooter%20-%20Membros%20Casuais.png)
 
 <br>
